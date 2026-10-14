@@ -1,0 +1,5 @@
+sonar.projectKey=<denhama23_sonar-lab>_sonar-lab
+sonar.organization=<denhama23>
+
+# Path to the source code to analyze, relative to this file
+sonar.sources=.
