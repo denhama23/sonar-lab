@@ -1,0 +1,3 @@
+git add sonar-project.properties .github/workflows/sonarqube.yml
+git commit -m "Add SonarQube Cloud analysis workflow"
+git push
